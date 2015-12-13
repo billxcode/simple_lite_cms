@@ -1,0 +1,11 @@
+html,body{
+	height: 100%;
+}
+*{margin: 0px auto;padding: 0px;}
+#form-posting{
+	margin: 0px auto;
+	padding: 0px;
+}
+#table-post{
+	border: 1px solid black;
+}
